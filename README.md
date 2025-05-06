@@ -1,3 +1,17 @@
+<h1 align="center">Hi 👋, I'm Swathi Surendran</h1>
+<h3 align="center">Aspiring Developer | Tech Explorer | Open Source Enthusiast</h3>
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+---
+
+### 🧠 About Me
+- 💡 I love building projects that make a difference
+- 🔭 Currently exploring **Full Stack Development**, **AI**, and **IoT**
+- 🌱 Always learning new technologies and contributing to open-source
+- ⚡ Fun fact: I love solving real-world problems with code!
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.swathii_i) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swathee-ndra) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/swatheendra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swatheendra12@gmail.com) 
